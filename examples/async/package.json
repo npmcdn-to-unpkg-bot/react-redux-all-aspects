@@ -1,0 +1,31 @@
+{
+  "name": "redux-async-example",
+  "version": "0.0.0",
+  "description": "Redux async example",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reactjs/redux.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "hot",
+    "reload",
+    "hmr",
+    "live",
+    "edit",
+    "webpack",
+    "flux"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reactjs/redux/issues"
+  },
+  "homepage": "http://redux.js.org",
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
