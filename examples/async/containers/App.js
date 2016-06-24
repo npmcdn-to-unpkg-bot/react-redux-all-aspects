@@ -22,7 +22,7 @@ class App extends Component {
       dispatch(fetchPostsIfNeeded(selectedReddit))
     }
   }
-
+      
   // 在事件响应中,将view导致的变化反映到action中
   handleChange(nextReddit) {
     this.props.dispatch(selectReddit(nextReddit))
