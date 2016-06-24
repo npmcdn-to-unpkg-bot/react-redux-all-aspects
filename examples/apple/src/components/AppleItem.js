@@ -24,8 +24,8 @@ class AppleItem extends Component {
     };
     
     // 模拟数据来源
-    state = mockState;
-    actions = mockActions;
+    //state = mockState;
+    //actions = mockActions;
     
     if (state.isEaten) return null;
     
